@@ -1,0 +1,1 @@
+(self.webpackChunk_minimal_material_kit_react=self.webpackChunk_minimal_material_kit_react||[]).push([[563],{36563:function(){}}]);
