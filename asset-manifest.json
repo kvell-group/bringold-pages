@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bringold-pages/static/css/main.6a4e108f.css",
-    "main.js": "/bringold-pages/static/js/main.455f4299.js",
+    "main.js": "/bringold-pages/static/js/main.d9a29454.js",
     "static/js/705.ef5b9c05.chunk.js": "/bringold-pages/static/js/705.ef5b9c05.chunk.js",
     "UnderConstructionPage.js": "/bringold-pages/static/js/UnderConstructionPage.6d6915ef.chunk.js",
     "SignInPage.js": "/bringold-pages/static/js/SignInPage.415aa0dc.chunk.js",
@@ -23,7 +23,7 @@
     "static/js/28.5702477d.chunk.js": "/bringold-pages/static/js/28.5702477d.chunk.js",
     "static/js/532.092b8b0f.chunk.js": "/bringold-pages/static/js/532.092b8b0f.chunk.js",
     "static/js/482.43878818.chunk.js": "/bringold-pages/static/js/482.43878818.chunk.js",
-    "static/js/836.044cab27.chunk.js": "/bringold-pages/static/js/836.044cab27.chunk.js",
+    "static/js/836.ae6f90ca.chunk.js": "/bringold-pages/static/js/836.ae6f90ca.chunk.js",
     "static/js/450.38361f61.chunk.js": "/bringold-pages/static/js/450.38361f61.chunk.js",
     "static/js/439.70b8e13a.chunk.js": "/bringold-pages/static/js/439.70b8e13a.chunk.js",
     "static/js/983.9209a734.chunk.js": "/bringold-pages/static/js/983.9209a734.chunk.js",
@@ -46,6 +46,6 @@
   },
   "entrypoints": [
     "static/css/main.6a4e108f.css",
-    "static/js/main.455f4299.js"
+    "static/js/main.d9a29454.js"
   ]
 }
