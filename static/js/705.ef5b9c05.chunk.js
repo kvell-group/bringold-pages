@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_minimal_material_kit_react=self.webpackChunk_minimal_material_kit_react||[]).push([[705],{33705:function(a,e,i){i.r(e);var t=i(74450);e.default=t.g}}]);

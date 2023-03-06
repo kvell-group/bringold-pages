@@ -1,1 +1,0 @@
-(self.webpackChunk_minimal_material_kit_react=self.webpackChunk_minimal_material_kit_react||[]).push([[942],{24654:function(){},52361:function(){},94616:function(){}}]);
